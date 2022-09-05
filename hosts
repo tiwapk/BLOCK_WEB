@@ -35,6 +35,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 products.aspose.app
 0.0.0.0 www.fileeagle.com
 0.0.0.0 abcdef.com
+0.0.0.0 www.pdf24.org
+
 # BLOCK IP PDF
 #0.0.0.0 209.58.135.15
 #0.0.0.0 52.89.48.194
@@ -92,6 +94,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 172.67.199.220
 #0.0.0.0 2606:4700:3033::6815:5a6a
 #0.0.0.0 2606:4700:3030::ac43:c7dc
+
 # BLOCK HOST XXX
 0.0.0.0 pornhub.com
 0.0.0.0 pornhub.org
