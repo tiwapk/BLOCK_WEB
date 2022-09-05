@@ -1,6 +1,6 @@
-#Title: Kei/hosts with the coverts pdf
+#Title: Kei/hosts with the coverts pdf, xxx, movies
 #DATE: 2022-09-05T14:00:00 GMT+7
-# Project home page: https://github.com/tiwapk/DNSBL-COVERTS-PDF-XXX
+# Project home page: https://github.com/tiwapk/DNSBL-COVERTS-PDF-XXX-MOVIES
 #
 # ===============================================================
 127.0.0.1 localhost
@@ -19,6 +19,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
+
 # BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
 0.0.0.0 pdf.online
@@ -254,6 +255,79 @@ ff02::3 ip6-allhosts
 0.0.0.0 thaihub18.com
 0.0.0.0 www.pornocr.com
 0.0.0.0 cupxxx.com
+
 # BLOCK IP XXX
 0.0.0.0 142.93.228.33
 0.0.0.0 66.254.114.41
+
+# BLOCK HOST MOVIES (Cryptocurrency, Bitcoin script)
+0.0.0.0 www.monomax.me
+0.0.0.0 my-best.in.th
+0.0.0.0 www.bilibili.tv
+0.0.0.0 www.korseries.com
+0.0.0.0 sistacafe.com
+0.0.0.0 bestreview.asia
+0.0.0.0 sudsapda.com
+0.0.0.0 salehere.co.th
+0.0.0.0 www.komchadluek.net
+0.0.0.0 www.imdb.com
+0.0.0.0 www.condonewb.com
+0.0.0.0 www.beartai.com
+0.0.0.0 movie44.com
+0.0.0.0 moviehdfree.net
+0.0.0.0 www.v8moviehd.com
+0.0.0.0 movie2021-2022.com
+0.0.0.0 movie2uhd.com
+0.0.0.0 freemoviehd.net
+0.0.0.0 nunghdmai.com
+0.0.0.0 www.123-hd.com
+0.0.0.0 ssdmovie.com
+0.0.0.0 movie007hd.com
+0.0.0.0 doomovie.online
+0.0.0.0 movie285.com
+0.0.0.0 movie999.net
+0.0.0.0 www.artsandscraps.org
+0.0.0.0 entertainment.trueid.net
+0.0.0.0 www.ดูหนังออนไลน์2022.net
+0.0.0.0 movie4k2022.com
+0.0.0.0 www.verrex.com
+0.0.0.0 www.i-moviehd.com
+0.0.0.0 kseries2022.com
+0.0.0.0 www.678moviehd.com
+0.0.0.0 www.runtheworld.today
+0.0.0.0 thmoviehdd.com
+0.0.0.0 dununghd.com
+0.0.0.0 www.koddeemovie.com
+0.0.0.0 atom.io
+0.0.0.0 ezmovie.co
+0.0.0.0 doonungonline.com
+0.0.0.0 www.nung2hdd.com
+0.0.0.0 specphone.com
+0.0.0.0 147freehd.com
+0.0.0.0 mooviehd.net
+0.0.0.0 uhuseries.com
+0.0.0.0 freemovie99.com
+0.0.0.0 baan-series.co
+0.0.0.0 www.doomovie-free.com
+0.0.0.0 www.viu.com
+0.0.0.0 www.doomovie-hd.com
+0.0.0.0 www.037hdmovie.com
+0.0.0.0 www.i-moviehd.com
+0.0.0.0 seemovie.me
+0.0.0.0 doonungth.com
+0.0.0.0 nungmunhd.com
+0.0.0.0 movie-fast.com
+0.0.0.0 www.veryfastmovie.com
+0.0.0.0 www.moneyguru.co.th
+0.0.0.0 www.pannunghd.com
+0.0.0.0 www.movie87hd.com
+0.0.0.0 www.vojkuhd.com
+0.0.0.0 movie88th.com
+0.0.0.0 movieeiei.com
+0.0.0.0 19-movie.com
+0.0.0.0 imovieth.com
+0.0.0.0 cinemas1.com
+0.0.0.0 moviemaster8k.com
+
+# BLOCK IP MOVIES (Cryptocurrency, Bitcoin script)
+#0.0.0.0 0.0.0.0.0
