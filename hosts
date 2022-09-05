@@ -24,16 +24,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 pdf.online
 0.0.0.0 lightpdf.com
 0.0.0.0 smallpdf.com
-0.0.0.0 ilovepdf.com
-0.0.0.0 easepdf.com
+0.0.0.0 www.ilovepdf.com
+0.0.0.0 www.easepdf.com
 0.0.0.0 convertio.co
 0.0.0.0 pdf.io
-0.0.0.0 freepdfconvert.com
+0.0.0.0 www.freepdfconvert.com
 0.0.0.0 tools.pdf24.org
-0.0.0.0 sejda.com
-0.0.0.0 cleverpdf.com
+0.0.0.0 www.sejda.com
+0.0.0.0 www.cleverpdf.com
 0.0.0.0 products.aspose.app
-0.0.0.0 fileeagle.com
+0.0.0.0 www.fileeagle.com
 0.0.0.0 abcdef.com
 #IP
 0.0.0.0 209.58.135.15
