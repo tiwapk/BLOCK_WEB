@@ -257,10 +257,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 cupxxx.com
 
 # BLOCK IP XXX
-0.0.0.0 142.93.228.33
-0.0.0.0 66.254.114.41
+#0.0.0.0 142.93.228.33
+#0.0.0.0 66.254.114.41
 
-# BLOCK HOST MOVIES (Cryptocurrency, Bitcoin script)
+# BLOCK HOST MOVIES
 0.0.0.0 www.monomax.me
 0.0.0.0 my-best.in.th
 0.0.0.0 www.bilibili.tv
@@ -329,5 +329,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 cinemas1.com
 0.0.0.0 moviemaster8k.com
 
-# BLOCK IP MOVIES (Cryptocurrency, Bitcoin script)
-#0.0.0.0 0.0.0.0.0
+# BLOCK IP MOVIES
