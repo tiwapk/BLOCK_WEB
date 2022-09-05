@@ -1,6 +1,6 @@
 #Title: Kei/hosts with the coverts pdf, xxx, movies
 #DATE: 2022-09-05T14:00:00 GMT+7
-# Project home page: https://github.com/tiwapk/DNSBL-COVERTS-PDF-XXX-MOVIES
+# Project home page: https://github.com/tiwapk/BLOCK_WEB
 #
 # ===============================================================
 127.0.0.1 localhost
@@ -19,7 +19,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
-
 # BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
 0.0.0.0 pdf.online
