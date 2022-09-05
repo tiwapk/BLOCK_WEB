@@ -1,0 +1,54 @@
+#Title: tiwapk/hosts with the coverts pdf
+#DATE: 2022-09-05T12:00:00 GMT+7
+# Project home page: https://github.com/tiwapk/BLOCK_COVERTS_PDF
+#
+# ===============================================================
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+0.0.0.0 pdfcandy.com
+0.0.0.0 pdf.online
+0.0.0.0 lightpdf.com
+0.0.0.0 smallpdf.com
+0.0.0.0 ilovepdf.com
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+
+#IP
+0.0.0.0 209.58.135.15
+0.0.0.0 52.89.48.194
+0.0.0.0 52.41.77.116
+0.0.0.0 47.252.13.107
+0.0.0.0 65.9.178.68
+0.0.0.0 104.20.0.94
+0.0.0.0 104.20.1.94
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
