@@ -287,7 +287,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 movie999.net
 0.0.0.0 www.artsandscraps.org
 0.0.0.0 entertainment.trueid.net
-0.0.0.0 www.ดูหนังออนไลน์2022.net
+#0.0.0.0 www.ดูหนังออนไลน์2022.net
+0.0.0.0 www.xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.net
 0.0.0.0 movie4k2022.com
 0.0.0.0 www.verrex.com
 0.0.0.0 www.i-moviehd.com
