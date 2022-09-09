@@ -18,8 +18,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Custom host records are listed here.
-# BLOCK HOST PDF
+# =============================================================== Custom host records are listed here.
+# =============================================================== BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
 0.0.0.0 pdf.online
 0.0.0.0 lightpdf.com
@@ -37,7 +37,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 abcdef.com
 0.0.0.0 www.pdf24.org
 
-# BLOCK IP PDF
+# =============================================================== BLOCK IP PDF
 #0.0.0.0 209.58.135.15
 #0.0.0.0 52.89.48.194
 #0.0.0.0 52.41.77.116
@@ -95,7 +95,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 2606:4700:3033::6815:5a6a
 #0.0.0.0 2606:4700:3030::ac43:c7dc
 
-# BLOCK HOST XXX
+# =============================================================== BLOCK HOST XXX
 0.0.0.0 pornhub.com
 0.0.0.0 pornhub.org
 0.0.0.0 porn-th.com
@@ -255,11 +255,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pornocr.com
 0.0.0.0 cupxxx.com
 
-# BLOCK IP XXX
+# =============================================================== BLOCK IP XXX
 #0.0.0.0 142.93.228.33
 #0.0.0.0 66.254.114.41
 
-# BLOCK HOST MOVIES
+# =============================================================== BLOCK HOST MOVIES
 0.0.0.0 www.monomax.me
 0.0.0.0 my-best.in.th
 0.0.0.0 www.bilibili.tv
@@ -329,4 +329,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 cinemas1.com
 0.0.0.0 moviemaster8k.com
 
-# BLOCK IP MOVIES
+# =============================================================== BLOCK IP MOVIES
