@@ -328,6 +328,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 imovieth.com
 0.0.0.0 cinemas1.com
 0.0.0.0 moviemaster8k.com
+0.0.0.0 movie678.com
+0.0.0.0 movie-god.com
+0.0.0.0 movie2uhd.com
+0.0.0.0 bugaboo.tv
+0.0.0.0 movie2film.com
+0.0.0.0 moviefree4k.com
+0.0.0.0 netflix.com
+0.0.0.0 springnews.co.th
+0.0.0.0 garfair.com
 
 # =============================================================== BLOCK IP MOVIES
 #0.0.0.0 
@@ -362,9 +371,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 havesino.com
 0.0.0.0 intracoastalpoolsupply.com
 0.0.0.0 arara.io
+0.0.0.0 microsoft.soundcast.me
+0.0.0.0 thailandtravel.live
+0.0.0.0 informationthailandpass.com
+0.0.0.0 passinformationthailand.com
+0.0.0.0 thailand-pass.live
+0.0.0.0 thpassconsulate.com
+0.0.0.0 teampassthailand.com
+0.0.0.0 thailandpassconsulate.com
 
 # =============================================================== BLOCK IP FAKE VENDER
-#0.0.0.0 
+#34.105.85.231
+#94.130.207.164
+#34.71.81.158
 
 # =============================================================== BLOCK HOST DL MP3
 0.0.0.0 320ytmp3.com
