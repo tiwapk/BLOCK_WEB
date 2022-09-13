@@ -412,3 +412,28 @@ ff02::3 ip6-allhosts
 
 # =============================================================== BLOCK IP BITCOIN
 #0.0.0.0 
+
+# =============================================================== BLOCK HOST OS SOFTWARE
+0.0.0.0 software.thaiware.com
+0.0.0.0 download.thaiware.com
+0.0.0.0 mawtoload.com
+0.0.0.0 softonic-th.com
+0.0.0.0 th.uptodown.com
+0.0.0.0 download.cnet.com
+0.0.0.0 filehippo.com
+0.0.0.0 ninite.com
+0.0.0.0 axeload.com
+0.0.0.0 teamviewer.com
+0.0.0.0 anydesk.com
+0.0.0.0 shop.thaiware.com
+0.0.0.0 www.windowssiam.com
+0.0.0.0 avg.com
+0.0.0.0 techspot.com
+0.0.0.0 www.eset.com
+0.0.0.0 www.avira.com
+0.0.0.0 www.bitdefender.com
+0.0.0.0 www.mcafee.com
+0.0.0.0 www.kaspersky.co.th
+
+# =============================================================== BLOCK IP OS SOFTWARE
+#0.0.0.0 
