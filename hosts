@@ -330,3 +330,66 @@ ff02::3 ip6-allhosts
 0.0.0.0 moviemaster8k.com
 
 # =============================================================== BLOCK IP MOVIES
+#0.0.0.0 
+
+# =============================================================== BLOCK HOST FAKE VENDER
+0.0.0.0 wetransfer.com
+0.0.0.0 tundra-wooden-grouse.glitch.me
+0.0.0.0 incsugon-citibank.ddns.net
+0.0.0.0 posmalayysia.com
+0.0.0.0 tracking.thailandpost.th.c2400178.ferozo.com
+0.0.0.0 chinawanixin.com
+0.0.0.0 sg1001.webmail.hinet.net
+0.0.0.0 ningbohuayi.cn
+0.0.0.0 jiaxinghuayi.en.alibaba.com
+0.0.0.0 akaragroup.co.th
+0.0.0.0 dopro.com.cn
+0.0.0.0 9d9uot.telecom1234.com
+0.0.0.0 kdg.co.kr
+0.0.0.0 newsletters-ataservices.com
+0.0.0.0 gobid.shop
+0.0.0.0 gobid.it
+0.0.0.0 gobid.info
+0.0.0.0 service.hebeianywirecloth.com
+0.0.0.0 count.hebeisunonwiremesh.com
+0.0.0.0 sunonwireclothfab.com
+0.0.0.0 count.sunonwireclothfab.com
+0.0.0.0 univerzitet.u.beogradu
+0.0.0.0 host1.dccsrvrs.com
+0.0.0.0 zupimages.net
+0.0.0.0 incdaber.redirectme.net
+0.0.0.0 havesinoslitter.com
+0.0.0.0 havesino.com
+0.0.0.0 intracoastalpoolsupply.com
+0.0.0.0 arara.io
+
+# =============================================================== BLOCK IP FAKE VENDER
+#0.0.0.0 
+
+# =============================================================== BLOCK HOST DL MP3
+0.0.0.0 320ytmp3.com
+0.0.0.0 ytmp3.cc
+0.0.0.0 y2mate.is
+0.0.0.0 onlinevideoconverter.pro
+0.0.0.0 x2convert.com
+0.0.0.0 onlymp3.to
+0.0.0.0 4kdownload.com
+0.0.0.0 clickmp3.com
+0.0.0.0 9convert.com
+0.0.0.0 yt1s.online
+0.0.0.0 y2meta.com
+0.0.0.0 flv2mp3.by
+0.0.0.0 clipconverter.cc
+0.0.0.0 offeo.com
+# =============================================================== BLOCK IP DL MP3
+#0.0.0.0 
+
+# =============================================================== BLOCK HOST BITCOIN
+0.0.0.0 bitkub.com
+0.0.0.0 bitazza.com
+0.0.0.0 bitmart.com
+0.0.0.0 binance.com
+0.0.0.0 promo.bitkub.com
+
+# =============================================================== BLOCK IP BITCOIN
+#0.0.0.0 
