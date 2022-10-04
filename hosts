@@ -1,5 +1,5 @@
-#Title: Kei/hosts with the coverts pdf, xxx, movies
-#DATE: 2022-09-05T14:00:00 GMT+7
+# Title: Kei/hosts with the coverts pdf, xxx, movies
+# DATE: 2022-09-05T14:00:00 GMT+7
 # Project home page: https://github.com/tiwapk/BLOCK_WEB
 #
 # ===============================================================
@@ -17,9 +17,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-#
+
 # =============================================================== Custom host records are listed here.
-#
 # =============================================================== BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
 0.0.0.0 pdf.online
@@ -37,7 +36,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fileeagle.com
 0.0.0.0 abcdef.com
 0.0.0.0 www.pdf24.org
-#
 # =============================================================== BLOCK IP PDF
 #0.0.0.0 209.58.135.15
 #0.0.0.0 52.89.48.194
@@ -95,7 +93,6 @@ ff02::3 ip6-allhosts
 #0.0.0.0 172.67.199.220
 #0.0.0.0 2606:4700:3033::6815:5a6a
 #0.0.0.0 2606:4700:3030::ac43:c7dc
-#
 # =============================================================== BLOCK HOST XXX
 0.0.0.0 pornhub.com
 0.0.0.0 pornhub.org
@@ -255,9 +252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thaihub18.com
 0.0.0.0 www.pornocr.com
 0.0.0.0 cupxxx.com
-#
 # =============================================================== BLOCK IP XXX
-#
 # =============================================================== BLOCK HOST MOVIES
 0.0.0.0 www.monomax.me
 0.0.0.0 my-best.in.th
@@ -335,9 +330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 netflix.com
 0.0.0.0 springnews.co.th
 0.0.0.0 garfair.com
-#
 # =============================================================== BLOCK IP MOVIES
-#
 # =============================================================== BLOCK HOST FAKE VENDER
 0.0.0.0 wetransfer.com
 0.0.0.0 tundra-wooden-grouse.glitch.me
@@ -376,9 +369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thpassconsulate.com
 0.0.0.0 teampassthailand.com
 0.0.0.0 thailandpassconsulate.com
-#
 # =============================================================== BLOCK IP FAKE VENDER
-#
 # =============================================================== BLOCK HOST DL MP3
 0.0.0.0 320ytmp3.com
 0.0.0.0 ytmp3.cc
@@ -395,16 +386,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 clipconverter.cc
 0.0.0.0 offeo.com
 # =============================================================== BLOCK IP DL MP3
-#
 # =============================================================== BLOCK HOST BITCOIN
 0.0.0.0 bitkub.com
 0.0.0.0 bitazza.com
 0.0.0.0 bitmart.com
 0.0.0.0 binance.com
 0.0.0.0 promo.bitkub.com
-#
 # =============================================================== BLOCK IP BITCOIN
-#
 # =============================================================== BLOCK HOST OS SOFTWARE
 0.0.0.0 software.thaiware.com
 0.0.0.0 download.thaiware.com
@@ -426,6 +414,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bitdefender.com
 0.0.0.0 www.mcafee.com
 0.0.0.0 www.kaspersky.co.th
-#
 # =============================================================== BLOCK IP OS SOFTWARE
-#
