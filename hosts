@@ -330,6 +330,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 netflix.com
 0.0.0.0 springnews.co.th
 0.0.0.0 garfair.com
+0.0.0.0 movie-steam.com
+0.0.0.0 rtimovie.com
+0.0.0.0 movie-zoom.com
+0.0.0.0 moviemovie24.com
+0.0.0.0 facesofannefullhd-thaifree.hp.peraichi.com
+0.0.0.0 movieshdfree.com
+0.0.0.0 zencastr.com
+0.0.0.0 moviec4.com
 # =============================================================== BLOCK IP MOVIES
 # =============================================================== BLOCK HOST FAKE VENDER
 0.0.0.0 wetransfer.com
