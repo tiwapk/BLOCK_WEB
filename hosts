@@ -1,5 +1,5 @@
 # Title: Kei/hosts with the coverts pdf, xxx, movies
-# DATE: 2022-10-15T11:00:00 GMT+7
+# DATE: 2022-10-28T10:44:00 GMT+7
 # Project home page: https://github.com/tiwapk/BLOCK_WEB
 #
 # ===============================================================
@@ -37,6 +37,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fileeagle.com
 0.0.0.0 abcdef.com
 0.0.0.0 www.pdf24.org
+0.0.0.0 sodapdf.com
+0.0.0.0 cloudcovert.com
+0.0.0.0 online2pdf.com
+0.0.0.0 pdfcandy.com
+0.0.0.0 pdf2go.com
+0.0.0.0 topdf.com
+0.0.0.0 pdftron.com
+0.0.0.0 pdftoimage.com
+0.0.0.0 pdf2doc.com
+0.0.0.0 swifdoo.com
+0.0.0.0 zamzar.com
+0.0.0.0 pdf2docx.com
 
 # BLOCK HOST XXX
 0.0.0.0 pornhub.com
