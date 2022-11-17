@@ -20,6 +20,10 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
+# BLOCK SOCIAL
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+
 # BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
 0.0.0.0 pdf.online
