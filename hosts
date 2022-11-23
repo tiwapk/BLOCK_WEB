@@ -301,6 +301,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 moviec4.com
 
 # BLOCK HOST FAKE VENDER
+0.0.0.0 www.globallmarketingcorp.com
+0.0.0.0 globallmarketingcorp.com
+0.0.0.0 172.104.62.106
 0.0.0.0 wetransfer.com
 0.0.0.0 tundra-wooden-grouse.glitch.me
 0.0.0.0 incsugon-citibank.ddns.net
