@@ -346,6 +346,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.officedepot.com
 0.0.0.0 download-encrypted-documents.vercel
 0.0.0.0 download-encrypted-documents.vercel.app
+0.0.0.0 furkanofset.com.tr
 
 # BLOCK HOST DL MP3
 0.0.0.0 320ytmp3.com
@@ -382,13 +383,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 axeload.com
 0.0.0.0 shop.thaiware.com
 0.0.0.0 www.windowssiam.com
-0.0.0.0 avg.com
 0.0.0.0 techspot.com
-0.0.0.0 www.eset.com
-0.0.0.0 www.avira.com
-0.0.0.0 www.bitdefender.com
-0.0.0.0 www.mcafee.com
-0.0.0.0 www.kaspersky.co.th
+
+# BLOCK HOST UPLOADS
+0.0.0.0 mediafire.com
 
 # TDEM
 0.0.0.0 toyotakalla.co.id
