@@ -20,11 +20,11 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-# BLOCK SOCIAL
+########## BLOCK SOCIAL
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 
-# BLOCK HOST PDF
+########## BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
 0.0.0.0 pdf.online
 0.0.0.0 lightpdf.com
@@ -44,7 +44,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sodapdf.com
 0.0.0.0 cloudcovert.com
 0.0.0.0 online2pdf.com
-0.0.0.0 pdfcandy.com
 0.0.0.0 pdf2go.com
 0.0.0.0 topdf.com
 0.0.0.0 pdftron.com
@@ -54,7 +53,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamzar.com
 0.0.0.0 pdf2docx.com
 
-# BLOCK HOST XXX
+########## BLOCK HOST XXX
 0.0.0.0 pornhub.com
 0.0.0.0 pornhub.org
 0.0.0.0 porn-th.com
@@ -214,7 +213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pornocr.com
 0.0.0.0 cupxxx.com
 
-# BLOCK HOST MOVIES
+########## BLOCK HOST MOVIES
 0.0.0.0 www.monomax.me
 0.0.0.0 my-best.in.th
 0.0.0.0 www.bilibili.tv
@@ -266,7 +265,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.viu.com
 0.0.0.0 www.doomovie-hd.com
 0.0.0.0 www.037hdmovie.com
-0.0.0.0 www.i-moviehd.com
 0.0.0.0 seemovie.me
 0.0.0.0 doonungth.com
 0.0.0.0 nungmunhd.com
@@ -284,7 +282,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 moviemaster8k.com
 0.0.0.0 movie678.com
 0.0.0.0 movie-god.com
-0.0.0.0 movie2uhd.com
 0.0.0.0 bugaboo.tv
 0.0.0.0 movie2film.com
 0.0.0.0 moviefree4k.com
@@ -299,9 +296,46 @@ ff02::3 ip6-allhosts
 0.0.0.0 movieshdfree.com
 0.0.0.0 zencastr.com
 0.0.0.0 moviec4.com
-0.0.0.0 24-hd.com
+0.0.0.0 www.24-hd.com
+0.0.0.0 www.movie2play.com
+0.0.0.0 www.v8movie-hd.com
+0.0.0.0 www.fwiptv.tv
+0.0.0.0 movie-th.tv
+0.0.0.0 www.movie678.com
+0.0.0.0 www.zola.com
+0.0.0.0 www.majorcineplex.com
+0.0.0.0 nfgesv9456.expandcart.com
+0.0.0.0 100moviehd.com
+0.0.0.0 172.67.72.95
+0.0.0.0 104.26.10.117
+0.0.0.0 104.26.11.117
+0.0.0.0 104.26.4.116
+0.0.0.0 172.67.69.181
+0.0.0.0 104.26.5.116
+0.0.0.0 www.madoohd.com
+0.0.0.0 www.bugaboo.tv
+0.0.0.0 928hd.com
+0.0.0.0 172.67.74.218
+0.0.0.0 104.26.6.19
+0.0.0.0 104.26.7.19
+0.0.0.0 moviedee24.com
+0.0.0.0 505hd.com
+0.0.0.0 www.9nunghd.com
+0.0.0.0 24-hd.tv
+0.0.0.0 movie2ufree.com
+0.0.0.0 de88.me
+0.0.0.0 movie2free.tv
+0.0.0.0 dev.epicgames.com
+0.0.0.0 104.26.1.61
+0.0.0.0 104.26.0.61
+0.0.0.0 172.67.68.163
+0.0.0.0 hengku666.com
+0.0.0.0 www.movie-vip.com
+0.0.0.0 www.dailymotion.com
+0.0.0.0 www.movie2fin.com
+0.0.0.0 www.daradaily.com
 
-# BLOCK HOST FAKE VENDER
+########## BLOCK HOST FAKE VENDER
 0.0.0.0 www.globallmarketingcorp.com
 0.0.0.0 globallmarketingcorp.com
 0.0.0.0 172.104.62.106
@@ -347,7 +381,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 download-encrypted-documents.vercel.app
 0.0.0.0 furkanofset.com.tr
 
-# BLOCK HOST DL MP3
+########## BLOCK MUSIC
+0.0.0.0 www.spotify.com
+0.0.0.0 open.spotify.com
+0.0.0.0 spotify.com
+
+########## BLOCK HOST DL MP3
 0.0.0.0 320ytmp3.com
 0.0.0.0 ytmp3.cc
 0.0.0.0 y2mate.is
@@ -363,14 +402,34 @@ ff02::3 ip6-allhosts
 0.0.0.0 clipconverter.cc
 0.0.0.0 offeo.com
 
-# BLOCK HOST BITCOIN
+########## BLOCK BALL
+0.0.0.0 www.ballzaa.com
+0.0.0.0 dooball66s.com
+0.0.0.0 www.goal.com
+0.0.0.0 thethaiger.com
+0.0.0.0 ballmun.com
+0.0.0.0 www.hugball.net
+0.0.0.0 7mthai.net
+0.0.0.0 livescoresfootball.org
+0.0.0.0 dookeela.live
+0.0.0.0 www.tvsod
+0.0.0.0 doofootball.asia
+0.0.0.0 www.dooballfree24hr.com
+0.0.0.0 www.siamsport.co.th
+0.0.0.0 rabbitcare.com
+0.0.0.0 www.tripleenjoy.com
+0.0.0.0 www.premierdream.com
+0.0.0.0 www.dooball678.com
+0.0.0.0 gotostadiums.com
+
+########## BLOCK HOST BITCOIN
 0.0.0.0 bitkub.com
 0.0.0.0 bitazza.com
 0.0.0.0 bitmart.com
 0.0.0.0 binance.com
 0.0.0.0 promo.bitkub.com
 
-# BLOCK HOST OS SOFTWARE
+########## BLOCK HOST OS SOFTWARE
 0.0.0.0 software.thaiware.com
 0.0.0.0 download.thaiware.com
 0.0.0.0 mawtoload.com
@@ -384,10 +443,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.windowssiam.com
 0.0.0.0 techspot.com
 
-# BLOCK HOST UPLOADS
-0.0.0.0 mediafire.com
+########## BLOCK HOST UPLOADS
+0.0.0.0 www.mediafire.com
 
-# TDEM
+########## TDEM
 0.0.0.0 toyotakalla.co.id
 0.0.0.0 toyotaserang.co.id
 0.0.0.0 dealertoyotabekasi.co.id
@@ -3531,7 +3590,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lufficiodeiviaggi.it
 0.0.0.0 cptdmy.com
 0.0.0.0 www.jawitzsprings.co.za/
-0.0.0.0 www.mediafire.com
 0.0.0.0 capitalui.futuristic.agency
 0.0.0.0 webgiatot.thietkewebtheomau.com
 0.0.0.0 18.138.12.175
@@ -5650,46 +5708,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 zina-boutique.com
 0.0.0.0 znzhou.top
 0.0.0.0 zvv.sov-link.ru
-0.0.0.0 162.214.50.39
-0.0.0.0 54.37.212.235
-0.0.0.0 144.202.34.169
-0.0.0.0 159.65.1.71
-0.0.0.0 1.234.65.61
-0.0.0.0 203.114.109.124
-0.0.0.0 45.118.115.99
-0.0.0.0 192.254.71.210
 0.0.0.0 startstv.com
 0.0.0.0 unikom.ac.id
 0.0.0.0 oliverrubber.in
 0.0.0.0 singsamut.ac.th
 0.0.0.0 xxx247.nl
-0.0.0.0 51.75.33.120
 0.0.0.0 94.177.218.33
-0.0.0.0 176.31.163.17
-0.0.0.0 131.100.24.199
 0.0.0.0 119.59.125.140
 0.0.0.0 207.180.228.237
 0.0.0.0 141.94.176.124
 0.0.0.0 81.0.236.93
 0.0.0.0 94.177.248.64
 0.0.0.0 66.42.55.5
-0.0.0.0 103.8.26.103
 0.0.0.0 185.184.25.237
 0.0.0.0 45.76.176.10
 0.0.0.0 188.93.125.116
-0.0.0.0 103.8.26.102
-0.0.0.0 178.79.147.66
-0.0.0.0 58.227.42.236
-0.0.0.0 45.118.135.203
-0.0.0.0 103.75.201.2
-0.0.0.0 195.154.133.20
-0.0.0.0 45.142.114.231
-0.0.0.0 212.237.5.209
-0.0.0.0 207.38.84.195
-0.0.0.0 104.251.214.46
-0.0.0.0 138.185.72.26
-0.0.0.0 51.68.175.8
-0.0.0.0 210.57.217.132
 0.0.0.0 av-quiz.tk
 0.0.0.0 crownadvertising.ca
 0.0.0.0 devanture.com.sg
@@ -5708,8 +5741,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 team.stagingapps.xyz
 0.0.0.0 thetrendskill.com
 0.0.0.0 www.168801.xyz
-0.0.0.0 www.cursossemana.com
-0.0.0.0 www.pasionportufuturo.pe
 0.0.0.0 yoho.love
 0.0.0.0 168801.xyz
 0.0.0.0 cetxlabs.com
@@ -5793,48 +5824,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 caboturnup.com
 0.0.0.0 91.200.186.228
 0.0.0.0 191.252.196.221
-0.0.0.0 212.237.17.99
-0.0.0.0 212.237.56.116
-0.0.0.0 216.158.226.206
-0.0.0.0 110.232.117.186
-0.0.0.0 158.69.222.101
-0.0.0.0 107.182.225.142
-0.0.0.0 176.104.106.96
-0.0.0.0 81.0.236.90
-0.0.0.0 50.116.54.215
-0.0.0.0 168.197.250.14
-0.0.0.0 142.4.219.173
-0.0.0.0 51.178.61.60
-0.0.0.0 51.210.242.234
-0.0.0.0 177.72.80.14
 0.0.0.0 163.172.50.82
 0.0.0.0 93.188.167.97
 0.0.0.0 103.161.172.108
-0.0.0.0 202.29.239.161
 0.0.0.0 62.210.200.63
-0.0.0.0 122.129.203.163
-0.0.0.0 51.178.186.134
-0.0.0.0 51.91.142.158
 0.0.0.0 178.79.144.87
 0.0.0.0 104.130.140.69
-0.0.0.0 51.79.205.117
-0.0.0.0 41.76.108.46
 0.0.0.0 45.63.5.129
-0.0.0.0 128.199.192.135
-0.0.0.0 46.55.222.11
 0.0.0.0 62.171.184.244
 0.0.0.0 62.210.82.223
-0.0.0.0 172.104.227.98
 0.0.0.0 31.207.89.74
 0.0.0.0 209.239.112.82
-0.0.0.0 116.124.128.206
 0.0.0.0 51.159.35.157
-0.0.0.0 109.75.64.100
 0.0.0.0 198.27.67.35
 0.0.0.0 104.238.138.234
-0.0.0.0 202.29.237.113
 0.0.0.0 207.210.201.159
-0.0.0.0 164.90.159.54
-0.0.0.0 91.207.181.106
-0.0.0.0 102.177.192.60
 0.0.0.0 51.75.33.122
