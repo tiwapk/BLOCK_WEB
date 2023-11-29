@@ -470,6 +470,11 @@ ff02::3 ip6-allhosts
 
 ########## BLOCK HOST UPLOADS
 0.0.0.0 www.mediafire.com
+0.0.0.0 mega.io
+0.0.0.0 yogablogfit.com
+0.0.0.0 taghaugh.com
+0.0.0.0 clk.wiki
+0.0.0.0 canoemissioninjunction.com
 
 ########## TDEM
 0.0.0.0 toyotakalla.co.id
