@@ -1,5 +1,5 @@
 # Title: Kei/hosts with the coverts pdf, xxx, movies
-# DATE: 2023-11-29T11:42:00 GMT+7
+# DATE: 2023-12-04T15:00:00 GMT+7
 # Project home page: https://github.com/tiwapk/BLOCK_WEB
 #
 # ===============================================================
@@ -405,6 +405,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 download-encrypted-documents.vercel
 0.0.0.0 download-encrypted-documents.vercel.app
 0.0.0.0 furkanofset.com.tr
+0.0.0.0 enel.com.tr
+0.0.0.0 papelariaportuqueza.pt
+0.0.0.0 skuodas.lt
 
 ########## BLOCK MUSIC
 0.0.0.0 www.spotify.com
