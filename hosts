@@ -410,9 +410,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 skuodas.lt
 
 ########## BLOCK MUSIC
-0.0.0.0 www.spotify.com
-0.0.0.0 open.spotify.com
-0.0.0.0 spotify.com
+#0.0.0.0 www.spotify.com
+#0.0.0.0 open.spotify.com
+#0.0.0.0 spotify.com
 
 ########## BLOCK HOST DL MP3
 0.0.0.0 320ytmp3.com
