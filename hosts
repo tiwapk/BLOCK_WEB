@@ -1,5 +1,5 @@
 # Title: Kei/hosts with the coverts pdf, xxx, movies
-# DATE: 2023-12-04T15:00:00 GMT+7
+# DATE: 2024-03-10T09:45:00 GMT+7
 # Project home page: https://github.com/tiwapk/BLOCK_WEB
 #
 # ===============================================================
@@ -21,8 +21,8 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 
 ########## BLOCK SOCIAL
-0.0.0.0 tiktok.com
-0.0.0.0 www.tiktok.com
+# 0.0.0.0 tiktok.com
+# 0.0.0.0 www.tiktok.com
 
 ########## BLOCK HOST PDF
 0.0.0.0 pdfcandy.com
@@ -66,7 +66,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.teachexcel.com
 0.0.0.0 macexcel.com
 0.0.0.0 www.excelforum.com
-0.0.0.0 www.reddit.com
 0.0.0.0 www.excel.web.tr
 0.0.0.0 takelessons.com
 0.0.0.0 www.excelvba.it
@@ -243,14 +242,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 my-best.in.th
 0.0.0.0 www.bilibili.tv
 0.0.0.0 www.korseries.com
-0.0.0.0 sistacafe.com
 0.0.0.0 bestreview.asia
 0.0.0.0 sudsapda.com
 0.0.0.0 salehere.co.th
 0.0.0.0 www.komchadluek.net
-0.0.0.0 www.imdb.com
 0.0.0.0 www.condonewb.com
-0.0.0.0 www.beartai.com
 0.0.0.0 movie44.com
 0.0.0.0 moviehdfree.net
 0.0.0.0 www.v8moviehd.com
@@ -265,7 +261,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 movie285.com
 0.0.0.0 movie999.net
 0.0.0.0 www.artsandscraps.org
-0.0.0.0 entertainment.trueid.net
 0.0.0.0 www.xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.net
 0.0.0.0 movie4k2022.com
 0.0.0.0 www.verrex.com
@@ -356,7 +351,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 172.67.68.163
 0.0.0.0 hengku666.com
 0.0.0.0 www.movie-vip.com
-0.0.0.0 www.dailymotion.com
 0.0.0.0 www.movie2fin.com
 0.0.0.0 www.daradaily.com
 
